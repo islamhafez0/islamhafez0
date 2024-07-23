@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Eslam Hafez!
 
-Welcome to my GitHub profile! I'm a passionate **frontend developer** aiming to become a proficient **fullstack MERN web developer**.
+Welcome to my GitHub profile! I'm a  **frontend developer** aiming to become a **fullstack MERN web developer** sonner.
 
-## 🛠️ Technologies & Tools
+## 🛠️ Skills
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
@@ -23,15 +23,15 @@ Welcome to my GitHub profile! I'm a passionate **frontend developer** aiming to 
 
 ## 🌟 Upcoming Projects
 
-### Web Crawler
+  - Web Crawler
 
-### End-to-End Chat App
+  - End-to-End Chat App
 
-### Online Courses Platform
+  - Online Courses Platform
 
-### Attendance System
+  - Attendance System
 
-### Youtube Clone
+  - Youtube Clone
 
 ## 🌱 Currently Learning
 
@@ -41,12 +41,6 @@ Welcome to my GitHub profile! I'm a passionate **frontend developer** aiming to 
 - Nextjs14
 - c++ fundamentals
 - German language
-
-## 👯 Looking to collaborate on
-
-- Fullstack MERN projects
-- Open-source contributions
-- Innovative frontend designs and effects
 
 ## 📫 How to reach me
 
