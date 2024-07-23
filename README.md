@@ -51,7 +51,7 @@ Welcome to my GitHub profile! I'm a passionate **frontend developer** aiming to 
 ## 📫 How to reach me
 
 - Email: moeslam843@gmail.com
-- LinkedIn: [Islam Hafez]([https://www.linkedin.com/in/eslam-hafez/](https://www.linkedin.com/in/islam-hafez-103902246/))
+- LinkedIn: [Islam Hafez](https://www.linkedin.com/in/islam-hafez-103902246/)
 - Twitter: [@eslamhafez72](https://x.com/eslamhafez72)
 
 ## 📈 GitHub Stats
