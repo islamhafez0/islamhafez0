@@ -23,7 +23,9 @@ Welcome to my GitHub profile! I'm a  **frontend developer** aiming to become a *
 
 ## 🌟 Upcoming Projects
 
-  - Web Crawler
+  - Web Crawler ✅
+
+  - Youtube Clone ✅
 
   - End-to-End Chat App
 
@@ -31,7 +33,6 @@ Welcome to my GitHub profile! I'm a  **frontend developer** aiming to become a *
 
   - Attendance System
 
-  - Youtube Clone
 
 ## 🌱 Currently Learning
 
